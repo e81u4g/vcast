@@ -3,29 +3,19 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "./images/ico/favicon.ico",
+      "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "./images/ico/apple-touch-icon-144.png",
+      "src": "logo192.png",
       "type": "image/png",
-      "sizes": "144x144"
+      "sizes": "192x192"
     },
     {
-      "src": "./images/ico/apple-touch-icon-114.png",
+      "src": "logo512.png",
       "type": "image/png",
-      "sizes": "114x114"
-    },
-    {
-      "src": "./images/ico/apple-touch-icon-72.png",
-      "type": "image/png",
-      "sizes": "72x72"
-    },
-    {
-      "src": "./images/ico/apple-touch-icon-57.png",
-      "type": "image/png",
-      "sizes": "57x57"
+      "sizes": "512x512"
     }
   ],
   "start_url": ".",
